@@ -1,0 +1,5 @@
+{
+  "name": "Product Perfect AI",
+  "description": "AI-powered product photo editor using Gemini 2.5 Flash. Remove backgrounds, clean up images, and apply creative edits with simple text prompts.",
+  "requestFramePermissions": []
+}
